@@ -1,4 +1,4 @@
- Hey 👋, I'm Danso
+# Hey 👋, I'm Danso
 
 Final-year Computer Science student at KNUST, based in Accra. I build full-stack web apps, and I like going lower too: encrypted networking in C++ and firmware for hardware that runs on real power.
 
